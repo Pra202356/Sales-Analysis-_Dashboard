@@ -24,23 +24,6 @@ This dashboard was built using the following technologies:
   - `.pbix` – Power BI dashboard file
   - `.png` – Dashboard preview image
 
-## 📂 Data Source
-
-The dashboard uses a sales dataset containing transactional and customer-related information.
-
-The dataset includes:
-
-- Order ID
-- Order Date
-- Product ID
-- Product Category
-- Customer Segment
-- Sales
-- Profit
-- Region
-- State
-- Payment Mode
-- Quantity
 
 ## ✨ Dashboard Features
 
