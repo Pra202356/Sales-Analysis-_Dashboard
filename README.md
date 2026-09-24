@@ -151,9 +151,10 @@ The dashboard helps identify:
 
 ## 📸 Dashboard Preview
 
-Add the dashboard screenshot here:
+<img width="1162" height="653" alt="snapshot_dashboard" src="https://github.com/user-attachments/assets/9b09ceac-376c-4d63-9000-d6c17a886e24" />
 
-![Sales Analysis Dashboard](sales_dashboard.png)
+
+
 
 ## 🎯 Conclusion
 
